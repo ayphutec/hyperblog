@@ -1,5 +1,4 @@
-Este es un ejemplo de Text
+La empresa se constituyó hace 4 años,
+instauramos diferentes áreas para mejor soporte
 
-Historia modificada
-
-Mañana nos enfocaremos en la historia laboral
+Ahora somos partner de Odoo
